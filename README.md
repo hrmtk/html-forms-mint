@@ -1,7 +1,7 @@
 # HTML FORMS
 > Rebuilding the form used by
 >  [Mint.com](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Futm_medium%3Ddirect%26cta%3Dhero_sign_up_free_ProspectWeb%26ivid%3D3cd198f0-bc7d-4876-a5ef-c07d296e966f)\
-> [Mint clone](https://hrmtk.github.io/html-forms-mint/)
+> [Mint clone](https://hrmtk.github.io/html-forms-mint/register.html)
 
 ## Table of contents
 * [General info](#general-info)
